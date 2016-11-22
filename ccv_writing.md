@@ -2,19 +2,19 @@
 
 ## Background
 
-Climate change affects all protected areas, including World Heritage (WH) sites. Biodiversity WH sites contain outstanding biological processes, threatened species and endangered habitats, and their long term conservation may be particularly vulnerable to climate change. It is imperative to better understand both the severity and the sources of impact, to order to mitigate with informed, appropriate management response to ensure their Outstanding Universal Value (OUV), under which they are inscribed as WH site, remains intact and conserved for future generations.
+Climate change is likely to affect all protected areas, including World Heritage (WH) sites. Biodiversity WH sites, i.e. those inscribed under criterion (ix) or (x), contain outstanding biological processes, threatened species and/or endangered habitats, and the impacts of the emerging threat of climate change could place them in jeopardy. It is therefore imperative to better understand both the severity and the sources of impact, in order to mitigate this with informed, appropriate management responses to ensure that the Outstanding Universal Values (OUV), for which they are inscribed as WH site, remains intact and conserved for future generations.
 
-Thanks to a traits-based climate change vulnerability (CCV) assessment by IUCN's Global Species Programme (Wendy 2013), where all amphibians, birds, and reef-building warm water coral were assessed for their sensitivity, low adaptability and exposure, it is possible and straightforward to identify, through the lens of these species, most sensitive and exposed WH sites.
+Thanks to a traits-based climate change vulnerability (CCV) assessment by IUCN's Global Species Programme (Foden et al. 2013), wherein all amphibians, birds, and reef-building warm water corals were assessed for their sensitivity, low adaptability and exposure to climate change - it is now possible to identify, through the lens of these species, the most sensitive and exposed WH sites.
 
-This study aims to undertake a desk-base analysis based on this work for all natural WH, especially those under criteria (ix) and (x), with a view to enhancing our understanding of climate vulnerable World Heritage sites in general, from the point of view of climate vulnerable amphibians, birds and corals, and also providing detailed analysis for each World Heritage site.
+This study aims to undertake a desk-based analysis, using existing CCV assessments, for all natural WH sites, especially those inscribed for their outstanding biodiversity values. In doing so we will enhance our understanding of the climate vulnerability of World Heritage sites in general, as well as individually, in terms of the amphibians, birds and corals species they support.
 
 ## Key findings
 
-Both results of amphibians and birds are summarised below. Information on detailed comparisons of each trait and exposure can be found in the [analysis workbook](./workspace.ipynb). Note that the sample of corals in WH sites is not statistically significant and therefore no summary is made further.
+The results for both amphibians and birds are summarised below. Information on detailed comparisons of each trait and exposure can be found in the [analysis workbook](./workspace.ipynb). Note that the sample of corals in WH sites is not statistically significant and therefore no further summary is made.
 
-### Significant but lower proportions of species are climate change vulnerable in the global WH network
+### Significant, but lower proportions of species are climate change vulnerable in the global WH network
 
-**15.0% of amphibians inside the WH network are vulnerable to climate change**, compared to 22.0% of all amphibians that are vulnerable globally, indicating amphibians are less vulnerable inside. Similar patterns can be found in each category of sensitivity, low adaptability and exposure, where lower proportions of amphibians score high in WH sites. 
+**15.0% of amphibian species with ranges falling inside the WH network are vulnerable to climate change**, compared to 22.0% of all amphibians that are vulnerable globally, indicating that amphibian species found inside natural WH sites are less vulnerable than those found outside. Similar patterns can be found in each category of sensitivity, low adaptability and exposure, where lower proportions of amphibians score 'high' in WH sites. 
 
 <!-- Similar to the global trend, amphibians in WH sites also face a low dispersal capacity (24.9%) and in terms of generation turnover many species remain unknown (more than 30%). -->
 
@@ -22,7 +22,7 @@ Both results of amphibians and birds are summarised below. Information on detail
 
 ---
 
-**19.3% of birds inside the WH network are vulnerable to climate change**, compared to 23.6% vulnerable globally. There seems to be significantly more bird species within WH sites (~70%, compared to 32.4% for amphibians). While notably there are a significant number of bird species with unknown sensitivity, low adaptability and exposure scores, the result resembles that of amphibians, with lower proportions of birds in all categories inside WH sites.
+**19.3% of bird species with ranges falling inside the WH network are vulnerable to climate change**, compared to 23.6% vulnerable globally. There seems to be significantly more bird than amphibian species occurring within WH sites in proportion (~70%, compared to 32.4% for amphibians). Notably, however, there are a significant number of bird species with unknown sensitivity, low adaptability and exposure scores. The final result resembles that of amphibians, with lower proportions of bird species scoring 'high' in each vulnerability category occurring inside WH sites, compared with species that do not.
 
 ![WH_network_bird.png](wh_network_bird.png)
 
@@ -30,80 +30,75 @@ Both results of amphibians and birds are summarised below. Information on detail
 
 ### More species are climate change vulnerable in biodiversity WH sites than other natural sites
 
-**15.4% of amphibians in biodiversity WH sites are vulnerable to climate change compared to 8% in other natural WH sites**. As expected, significantly more species are found in biodiversity WH sites and  comparatively higher proportions of them are vulnerable overall, as well as in each category.
+**15.4% of amphibian species occurring in biodiversity WH sites are vulnerable to climate change compared to 8% in other natural WH sites**. As expected, significantly more species are found in biodiversity WH sites, and comparatively higher proportions of these are climate change vulnerable overall, as well as in each individual vulnerability category.
 
 ![network_bio_amp.png](network_bio_amp.png)
 
 ---
 
-**20.0% of birds in biodiversity WH sites are vulnerable to climate change compared to 14.7% in other natural WH sites**. Across sensitivity, low adaptability and exposure, there seems to be more variation between biodiversity sites and other natural sites. Notably, a lot of bird have unknown scores, and out of those with known scores, most score a high in sensitivity regardless biodiversity WH designation.
+**20.0% of bird species occurring in biodiversity WH sites are vulnerable to climate change compared to 14.7% in other natural WH sites**. Across sensitivity, low adaptability and exposure, there seems to be a higher degree of variation between biodiversity sites and other natural sites. Notably, high numbers of bird species have unknown scores, and of those with known scores, most score a 'high' in sensitivity, irrespective of biodiversity WH designation.
 
 ![network_bio_bird.png](network_bio_bird.png)
 
 ---
 
-### A considerable regional variation across WH sites in hosting climate vulnerable species
+### There is considerable regional variation across WH sites in hosting climate change vulnerable species
 
-**WH sites in Latin America and the Caribbean has the highest number and proportion of climate vulnerable amphibians**
+**WH sites in Latin America and the Caribbean has the highest number and proportion of climate change vulnerable amphibians**
 
 ![region_amp.png](region_amp.png)
 
 ---
 
-**WH sites in Latin America and the Caribbean has the highest number and proportion of climate vulnerable birds**. 
+**WH sites in Latin America and the Caribbean has the highest number and proportion of climate change vulnerable birds**. 
 
 ![region_bird.png](region_bird.png)
 
 ---
-## Discussions
-<!-- There are substantial proportions of climate change vulnerable species inside WH sites. In the case of birds, one in five in WH sites are vulnerable to climate change
-
-however, if compared globally the figure seems significantly lower. In both cases of amphibians and birds, fewer of them are sensitive, with low adaptability and exposed. This may reflect the fact WH sites are protected areas, and very often stringent protection and management schemes are in place and better enforced, therefore their habitats are more likely to be intact and undisturbed. 
-
-
-The difference in species climate vulnerability between biodiversity and other natural WH sites for reflects WH criteria. In the case of amphibians, where substantially more species are found in biodiversity sites,  -->
 
 ## Methodology
 
-### The overlap of Red List species and WH sites
+### Overlap of Red List of Threatened Species data and WH sites
 
-The information of species inside WH sites remains incomplete at best, with many missing entirely. And in the case where such information is available, they are often non-standardised and not verified, and in most cases, they cannot be linked to species databases, in this case the CCV result, without significant efforts (such as reconciling names and/or taxonomic changes). Therefore, in order to retrieve consistent species information inside WH sites, we relied on the spatial relationship between species range polygons from the Red List and boundaries from the World Database on Protected Areas (WDPA) - both are spatially explicit. 
+Information on species occurring inside WH sites remains incomplete at best, with some WH sites lacking species-level data altogether. Moreover, in cases where such information is available, it is often neither standardised nor verified, and in many cases, cannot be linked to other species databases, such as the CCV assessment, without significant efforts (e.g. to reconcile names and/or taxonomic changes). To obtain this information, we instead chose to infer species' presences based on the spatial relationship between species range polygons from the IUCN Red List of Threatened Species and boundaries from the World Database on Protected Areas (WDPA), both of which are spatially explicit. 
 
-To this end, a spatial overlay was computed between the two datasets, in order to identify potential species inside WH sites. Species intersecting a small area (absolute small size) and a small proportion (relative small size) of WH sites, were excluded. This removed false positives due to inaccurate and mismatching spatial boundaries, which may be due to different scales at which polygons had been mapped. 
+To this end, a spatial overlay was computed between the two datasets, in order to identify species potentially occurring within WH sites. Species intersecting a small area (absolute small size) and a small proportion (relative small size) of WH sites, were excluded (Hoffman et al. 2010). This removed false positives due to inaccurate and mismatching spatial boundaries, which may be due to the different scales at which polygons had been mapped. 
 
-In this analysis, only species distributions with presence code 1-2, origin 1-2 and seasonality 1-3 were considered. They were then dissolved to remove the effect of duplicates and double counting. The end result is a non-spatial table with unique pairs of WH sites and species, with their associated attributes.
+In this analysis, only species distributions with presence code 1-2, origin 1-2 and seasonality 1-3 were considered. This is to ensure species that are possibly extent, introduced, uncertain and extinct are excluded. In the case of birds, range of passage is also excluded. Range polygons were then dissolved to remove the effect of duplicates and double counting. The end result was a non-spatial table with unique pairs of WH sites and species, including their associated attributes.
 
 ### Utilising the climate change vulnerability assessments
 
-Using species IDs, CCV data of amphibians, birds and corals were joined, separately, by the partial overlap table from the overlay analysis. This allowed climate vulnerability information to be transferred, via partially overlapping species, to each World Heritage site. Then, by grouping species CCV scores accordingly, one type of analysis was developed to examine each WH site individually, and the other assessing the entire WH network as a whole.
+Using species ID numbers, CCV assessments of amphibians, birds and corals were joined, separately, by the partial overlap table derived from the overlay analysis. This enabled climate change vulnerability information to be transferred, via partially overlapping species, to each World Heritage site. Then, by grouping species CCV scores accordingly, analyses were conducted to examine each WH site individually, as well as to examine the entire WH network as a whole.
 
 More specifically, the following were calculated:
 
-1. The number and proportion of species scoring 'high' in each trait category (sensitivity, low adaptability), and exposure.  
-2. Comparison of the results between species found inside the WH network and globally
-3. Based on the above results, comparisons between biodiversity and non-biodiversity sites, and by regions
+1. The number and proportion of species scoring 'high' in each trait category (sensitivity, low adaptability), and for exposure.
+2. Comparison of the results between species found inside the WH network and globally.
+3. Based on the above results, comparisons between biodiversity and non-biodiversity WH sites, and by regions.
 
-It is possible that the difference to be observed reflects a random sampling process. Therefore, a bootstrap method was utilised for statistical significance testing, where the sample, i.e., species in WH sites, was repeatedly re-sampled with replacement for 1,000 times to derive an empirical distribution.
+It is possible that the difference to be observed reflects a random sampling process. Therefore, a bootstrap method was utilised for statistical significance testing, where the sample (i.e., species in WH sites), was repeatedly re-sampled with replacement 1,000 times to derive an empirical distribution.
 
 ## Caveat and interpretation
 
-### Species inside WH sites
+### Calculating species occurring inside WH sites
 
-Due to the nature of using spatial boundaries to determine which species occurs in WH sites, the result relies heavily on the quality, both accuracy and precision, of the input datasets, the Red List and the WDPA. It is possible that range polygons/boundaries have been mapped at different scales and thus the overlay operation may result in artifacts of false overlaps. It is therefore necessary to use a threshold to remove such commissions errors. To this end, a series of sensitive analyses were carried out to determine the effect of different thresholds. This approach is not perfect and remains an experiment of trial and testing but by using such a threshold, 'false positive' should be considerably reduced.
+Due to the nature of using spatial boundaries to infer species occurring within WH sites, the resulting inferences rely heavily on the quality, in terms of both accuracy and precision, of the input datasets (the Red List of Threatened Species and the WDPA). It is possible that range polygons/boundaries have been mapped at different scales, and the overlay operation may, therefore, result in artefacts of false overlaps. It is therefore necessary to use a threshold to remove such commissions errors. To this end, a series of sensitivity analyses were carried out to determine the effect of using different thresholds. This approach is not perfect and remains an experiment of trial and testing, but by using such a threshold, 'false positives' should have been considerably reduced.
 
-In addition, the fact that Red List species polygons represents Extent of Occurrence (EOO) not Area of Occupancy (AOO) suggests in some cases even a species with 100% overlap with WH sites may still be absent. This should, however, be very rare, especially for endemic and range restricted species, due to the general large size of these sites and thus should introduce little error for further analysis. 
+Furthermore, the fact that Red List species polygons represents Extent of Occurrence (EOO) and not Area of Occupancy (AOO) suggests that, in some cases, even a species with 100% overlap with WH sites may still be absent. This should, however, be very rare, especially for endemic and range-restricted species, due to the general large size of these sites and thus should introduce little error for further analysis. 
 
 ### Species climate change vulnerability assessment is relative
 
-The top 25% of assessment of any trait/exposure for each taxon is classified as 'high', such as sensitivity, low adaptability and exposure. Because the measure is relative within the taxon of interest, comparisons cannot be made between taxa, and any interpretation or generalisation across taxa would be incorrect and meaningless.
+For several components of the vulnerability assessments (some traits, plus exposure), the upper 25% of species 'scores' assessed under that component were were classified as 'high' (Foden et al. 2013). Because such measures are relative within the taxon of interest, comparisons cannot be made between taxa, and any interpretation or generalisation across taxa would be incorrect and meaningless.
 
 ### Comparisons between WH sites and across regions are relative
 
-Due to the relative nature of species climate vulnerability assessment, aggregated results for each WH sites, and comparisons between different regions are also relative and only make sense for a given taxon.
+Due to the relative nature of the climate change vulnerability assessments, aggregated results for each WH site, and comparisons between different regions are also relative and therefore only make sense for a given taxon.
 
 ### Significant number of unknown scores
 
-At the moment, all unknown scores are implicitly treated as if they were 'low'. The effect of such propagates from the very lowest level (each trait) all the way to the final score. As it currently stands, it represents a most conservative or positive scenario for climate change vulnerable analysis. This may change when better information is made available.
+Currently, all unknown scores are implicitly treated as if they were 'low'. The effect of this propagates from the very lowest level (for each trait), all the way to the final score. As it currently stands, it represents the most conservative or 'optimistic' scenario in terms of species' vulnerabilities, and this may change when better information is made available.
 
 ## Reference
-Foden WB, Butchart SHM, Stuart SN, Vié J-C, Akçakaya HR, Angulo A, et al. (2013) Identifying the World's Most Climate Change Vulnerable Species: A Systematic Trait-Based Assessment of all Birds, Amphibians and Corals. [PLoS ONE 8(6): e65427. doi:10.1371/journal.pone.0065427](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0065427)
+Foden W. B., Butchart S. H. M., Stuart S. N., Vié J-C., Akçakaya H. R., Angulo A., et al. (2013) Identifying the World's Most Climate Change Vulnerable Species: A Systematic Trait-Based Assessment of all Birds, Amphibians and Corals. [PLoS ONE 8(6): e65427. doi:10.1371/journal.pone.0065427](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0065427)
+
+Hoffmann, M., Hilton-Taylor, C., Angulo, A., Böhm, M., Brooks, T. M., Butchart, S. H. M., Carpenter, K. E., Chanson, J., Collen, B., Cox, N. a, Darwall, W. R. T., Dulvy, N. K., Harrison, L. R., Katariya, V., Pollock, C. M., Quader, S., Richman, N. I., Rodrigues, A. S. L., Tognelli, M. F., Vié, J.-C., Aguiar, J. M., Allen, D. J., Allen, G. R., Amori, G., Ananjeva, N. B., Andreone, F., Andrew, P., Aquino Ortiz, A. L., Baillie, J. E. M., Baldi, R., Bell, B. D., Biju, S. D., Bird, J. P., Black-Decima, P., Blanc, J. J., Bolaños, F., Bolivar-G, W., Burfield, I. J., Burton, J. a, Capper, D. R., Castro, F., Catullo, G., Cavanagh, R. D., Channing, A., Chao, N. L., Chenery, A. M., Chiozza, F., Clausnitzer, V., Collar, N. J., Collett, L. C., Collette, B. B., Cortez Fernandez, C. F., Craig, M. T., Crosby, M. J., Cumberlidge, N., Cuttelod, A., Derocher, A. E., Diesmos, A. C., Donaldson, J. S., Duckworth, J. W., Dutson, G., Dutta, S. K., Emslie, R. H., Farjon, A., Fowler, S., Freyhof, J., Garshelis, D. L., Gerlach, J., Gower, D. J., Grant, T. D., Hammerson, G. a, Harris, R. B., Heaney, L. R., Hedges, S. B., Hero, J.-M., Hughes, B., Hussain, S. A., Icochea M, J., Inger, R. F., Ishii, N., Iskandar, D. T., Jenkins, R. K. B., Kaneko, Y., Kottelat, M., Kovacs, K. M., Kuzmin, S. L., La Marca, E., Lamoreux, J. F., Lau, M. W. N., Lavilla, E. O., Leus, K., Lewison, R. L., Lichtenstein, G., Livingstone, S. R., Lukoschek, V., Mallon, D. P., McGowan, P. J. K., McIvor, A., Moehlman, P. D., Molur, S., Muñoz Alonso, A., Musick, J. a, Nowell, K., Nussbaum, R. a, Olech, W., Orlov, N. L., Papenfuss, T. J., Parra-Olea, G., Perrin, W. F., Polidoro, B. a, Pourkazemi, M., Racey, P. a, Ragle, J. S., Ram, M., Rathbun, G., Reynolds, R. P., Rhodin, A. G. J., Richards, S. J., Rodríguez, L. O., Ron, S. R., Rondinini, C., Rylands, A. B., Sadovy de Mitcheson, Y., Sanciangco, J. C., Sanders, K. L., Santos-Barrera, G., Schipper, J., Self-Sullivan, C., Shi, Y., Shoemaker, A., Short, F. T., Sillero-Zubiri, C., Silvano, D. L., Smith, K. G., Smith, A. T., Snoeks, J., Stattersfield, A. J., Symes, A. J., Taber, A. B., Talukdar, B. K., Temple, H. J., Timmins, R., Tobias, J. a, Tsytsulina, K., Tweddle, D., Ubeda, C., Valenti, S. V, van Dijk, P. P., Veiga, L. M., Veloso, A., Wege, D. C., Wilkinson, M., Williamson, E. a, Xie, F., Young, B. E., Akçakaya, H. R., Bennun, L., Blackburn, T. M., Boitani, L., Dublin, H. T., da Fonseca, G. a B., Gascon, C., Lacher, T. E., Mace, G. M., Mainka, S. a, McNeely, J. a, Mittermeier, R. a, Reid, G. M., Rodriguez, J. P., Rosenberg, A. a, Samways, M. J., Smart, J., Stein, B. a and Stuart, S. N. (2010) ‘The impact of conservation on the status of the world’s vertebrates’, Science, 330(6010), pp. 1503–9. doi: 10.1126/science.1194442.
